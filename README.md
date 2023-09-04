@@ -54,8 +54,4 @@ The most popular dog stage is pupper, which is a younger dog, followed by doggo 
 The scatter plot below shows a positive relationship between ```retweet_count``` and ```favorite_count```, the higher the retweet count, the higher the favorite count.
 
 ![image](https://github.com/amiegirl/WeRateDogs/assets/81017006/fe78ff7d-1411-4a17-8575-5d46b48c01b0)
-
-
-
-
  
